@@ -14,3 +14,6 @@ temps.unshift(50.5)
 
 # Tell you the number of elements in array.
 [happy,sad,angry,excited].length
+
+# In an array the we start counting in 0, which is call the index position.
+# "erik" would be position 0 and "jo" would be position 1.
