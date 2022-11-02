@@ -1,6 +1,6 @@
 names = ["erik","jo","lin","mike"]
 house_numbers = [10,17,8,20]
-temps = [35.5,25.77.9,50.6]
+temps = [35.5,25.7,7.9,50.6]
 moods = [happy,sad,angry,excited]
 
 # The names "ivy" and "isabel" will be push to the front before "erik".
@@ -17,3 +17,6 @@ temps.unshift(50.5)
 
 # In an array the we start counting in 0, which is call the index position.
 # "erik" would be position 0 and "jo" would be position 1.
+
+# .drop will the first element of an array and return the rest of the elements to an array.
+# For example if you do temps.drop(2), the elementa 35.5 and 25.7 will be gone.
