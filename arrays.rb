@@ -1,9 +1,9 @@
 names = ["erik","jo","lin","mike"]
 house_numbers = [10,17,8,20]
 temps = [35.5,25.7,7.9,50.6]
-moods = [happy,sad,angry,excited]
+log_in = [true,true,false,true]
 
-# The names "ivy" and "isabel" will be push to the front before "erik".
+# The names "ivy" and "isabel" will be push to the end, behind "mike".
 names.push("ivy","isabel")
 
 # All numbers will be shift one space forward. The 10 will be gone.
