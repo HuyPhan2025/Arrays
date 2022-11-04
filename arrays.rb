@@ -9,11 +9,11 @@ names.push("ivy","isabel")
 # All numbers will be shift one space forward. The 10 will be gone.
 house_numbers.shift
 
-# Add the 50,5 to the array at the front.
+# Add the 50.5 to the array at the front.
 temps.unshift(50.5)
 
 # Tell you the number of elements in array.
-[happy,sad,angry,excited].length
+house_numbers.length
 
 # In an array the we start counting in 0, which is call the index position.
 # "erik" would be position 0 and "jo" would be position 1.
