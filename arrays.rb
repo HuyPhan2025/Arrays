@@ -18,5 +18,5 @@ temps.unshift(50.5)
 # In an array the we start counting in 0, which is call the index position.
 # "erik" would be position 0 and "jo" would be position 1.
 
-# .drop will the first element of an array and return the rest of the elements to an array.
+# .drop will remove the first element of an array and return the rest of the elements to an array.
 # For example if you do temps.drop(2), the elementa 35.5 and 25.7 will be gone.
